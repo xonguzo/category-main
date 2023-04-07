@@ -1099,12 +1099,13 @@ nav
     text-align: right;
     box-sizing: border-box;
     position: relative;
+    padding-bottom: 7px;
     }
   .link .more:hover
     {color: #007dc3;}
   .link .more span
     {position: absolute;
-    top: 10px;
+    top:5px;
     }
   .link .insta
     {display: flex;
@@ -1112,7 +1113,7 @@ nav
     }
   .link .insta a
     {width: 210px;
-    height: 200px;
+    height: 220px;
     overflow: hidden;
     }
   .link .insta a img
